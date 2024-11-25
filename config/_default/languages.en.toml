@@ -1,0 +1,32 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "AVP: Realms-Unknown(3003)"
+
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/MENU_Knowledge_00240.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+   copyright = "Realms Unknown 2024"
+
+ [params.author]
+   name = "Your name here"
+   email = "youremail@example.com"
+   image = "img/MENU_Knowledge_00105.PNG"
+   imageQuality = 96
+   headline = "I'm only human"
+   bio = "A little bit about you"
+   links = [
+#     { email = "mailto:hello@your_domain.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { github = "https://github.com/username" },
+     { linkedin = "https://www.linkedin.com/in/epc-aladin/" },
+#     { tumblr = "https://username.tumblr.com" },
+   ]
